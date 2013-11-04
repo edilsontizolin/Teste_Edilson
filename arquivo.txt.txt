@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 Teste
 
 Branch 1
 
 Teste de Voltar versão
-=======
-Teste
->>>>>>> parent of e69b385... Commit 1 Branch
+
